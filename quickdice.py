@@ -52,6 +52,3 @@ class roll():
             if disadvantage == 20:
                 print("CRIT!!")
             print(disadvantage)
-
-                
-roll(100, False, False)
